@@ -24,8 +24,11 @@ Tu objetivo junto a tu pareja de investigación es utilizar las **6 Herramientas
 
 - # Operación Olimpo - Investigación de Datos
 
-## Tarea 1:
+## Puerta 1:
 * **Código de Desbloqueo:** `GH-OLIMPO-DATA-2026-KEY`
 * **Hallazgos iniciales (`data/reservas_raw.csv`):**
   * Detectadas 10 filas totalmente duplicadas.
   * Detectados valores nulos (`NaN`) intencionados en las columnas de precios y noches.
+
+## Puerta 2:
+  * Commit local registrado; push pendiente
