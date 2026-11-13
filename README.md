@@ -21,3 +21,11 @@ Tu objetivo junto a tu pareja de investigación es utilizar las **6 Herramientas
 - **Trabajo en Parejas:** Rotad el control del teclado en cada Puerta (Piloto y Copiloto).
 - **Calidad sobre Velocidad:** No se evalúa quién termina primero, sino la capacidad de explicar el resultado técnico.
 - **Transparencia en Ayudas:** Si os atascáis, podéis consultar los archivos en la carpeta `pistas/` sin penalización.
+
+- # Operación Olimpo - Investigación de Datos
+
+## Tarea 1:
+* **Código de Desbloqueo:** `GH-OLIMPO-DATA-2026-KEY`
+* **Hallazgos iniciales (`data/reservas_raw.csv`):**
+  * Detectadas 10 filas totalmente duplicadas.
+  * Detectados valores nulos (`NaN`) intencionados en las columnas de precios y noches.
